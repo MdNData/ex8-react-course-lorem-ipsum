@@ -274,6 +274,8 @@ ul {
 }
 .lorem-form label {
   font-size: 1.25rem;
+  display: inline-block;
+  margin-bottom: 4px;
 }
 
 .lorem-form input {
